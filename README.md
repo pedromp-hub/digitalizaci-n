@@ -20,3 +20,5 @@
   <!-- comentario -->
 
 [Texto del enlace](http://www.ejemplo.com)
+
+![Texto alternativo](C:\Users\USUARIOM\Pictures\Screenshots\prueba)
