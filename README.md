@@ -19,4 +19,4 @@
 
   <!-- comentario -->
 
-     [Texto del enlace](http://www.ejemplo.com)
+[Texto del enlace](http://www.ejemplo.com)
